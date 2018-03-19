@@ -1,9 +1,21 @@
 ---
 layout: post
-title: Welcome to JAMstack Bakery!
+title: Jekyll and Netlify Tutorial
 ---
 
-JAMstack Bakery is an ever-growing resource for those interested in developing with JAMstack.
+This tutorial assumes you have a GitHub account and are familiar with Git and the command line.
+
+You'll need to download Jekyll if you haven't already.
+
+You can deploy directly to Netlify. 
+
+Edit the settings in the config.yml file.
+
+Add some blog posts.
+
+git add .
+git commit -m "first commit"
+git push origin master
 
 ![Geometric pattern with fading gradient](/img/sample_feature_img_2.png)
 

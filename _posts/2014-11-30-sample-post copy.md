@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JAMstack Tutorial: Jekyll and Netlify
+title: JAMstack Tutorial Jekyll and Netlify
 ---
 This tutorial assumes you have a GitHub account and are familiar with Git and the command line.
 

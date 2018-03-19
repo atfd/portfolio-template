@@ -17,7 +17,7 @@ git add .
 git commit -m "first commit"
 git push origin master
 
-![Geometric pattern with fading gradient](/img/sample_feature_img_2.png)
+![What's in the JAMstack?](/img/JAM.png)
 
 Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Pygments by default.
 

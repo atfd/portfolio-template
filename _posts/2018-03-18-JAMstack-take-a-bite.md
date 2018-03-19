@@ -1,4 +1,7 @@
-## Jamstack: take a bite.
+---
+layout: post
+title: JAMstack: take a bite
+---
 
 What's in the stack? 
 
